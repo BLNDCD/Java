@@ -1,4 +1,4 @@
-public class test {
+public class ConvertirCaraceteresAPosicion {
 	
 	static void letraAPosicion(String a) {
 		a = a.toUpperCase();
